@@ -61,11 +61,6 @@ The dashboard provides a single-page executive view combining:
 
 ---
 
-## 🖼 Dashboard Preview
-![Dashboard Preview](images/dashboard_preview.png)
-
----
-
 ## 🚀 Business Impact
 - Identifies high-risk states for targeted road safety policies
 - Highlights over-speeding as the leading cause of fatalities
@@ -75,4 +70,4 @@ The dashboard provides a single-page executive view combining:
 
 ## 📌 Author
 **Apoorvi Sahu**  
-Aspiring Data Analyst | Python | SQL | Power BI
+Aspiring Data Analyst
